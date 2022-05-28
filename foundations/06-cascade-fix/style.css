@@ -23,7 +23,7 @@
   font-weight: bold;
 } 
 
-.child {
+.child.text {
   color: red;
   font-size: 14px;
 }
